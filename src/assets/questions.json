@@ -1,0 +1,225 @@
+{
+    "questions": [
+        {
+            "questionText": "which of the following does Typescript use to specify types",
+            "options": [
+                {
+                    "text": ":",
+                    "correct": true
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                }
+            ],
+            "explanations":"TS uses a colon (:)."
+        },
+        {
+            "questionText": "What is Angular",
+            "options": [
+                {
+                    "text": ":",
+                    "correct": true
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                }
+            ],
+            "explanations":"TS uses a colon (:)."
+        },
+        {
+            "questionText": "what ia Typescript",
+            "options": [
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":",
+                    "correct": true
+                },
+                {
+                    "text": ":"
+                    
+                }
+            ],
+            "explanations":"TS uses a colon (:)."
+        },
+        {
+            "questionText": "which of the following does Typescript use to specify types",
+            "options": [
+                {
+                    "text": ":",
+                    "correct": true
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                }
+            ],
+            "explanations":"TS uses a colon (:)."
+        },
+        {
+            "questionText": "which of the following does Typescript use to specify types",
+            "options": [
+                {
+                    "text": ":",
+                    "correct": true
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                }
+            ],
+            "explanations":"TS uses a colon (:)."
+        },
+        {
+            "questionText": "which of the following does Typescript use to specify types",
+            "options": [
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":",
+                    "correct": true
+                    
+                }
+            ],
+            "explanations":"TS uses a colon (:)."
+        },
+        {
+            "questionText": "which of the following does Typescript use to specify types",
+            "options": [
+                {
+                    "text": ":",
+                    "correct": true
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                }
+            ],
+            "explanations":"TS uses a colon (:)."
+        },
+        {
+            "questionText": "which of the following does Typescript use to specify types",
+            "options": [
+                {
+                    "text": ":",
+                    "correct": true
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                }
+            ],
+            "explanations":"TS uses a colon (:)."
+        },
+        {
+            "questionText": "which of the following does Typescript use to specify types",
+            "options": [
+                {
+                    "text": ":",
+                    "correct": true
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                }
+            ],
+            "explanations":"TS uses a colon (:)."
+        },
+        {
+            "questionText": "which of the following does Typescript use to specify types",
+            "options": [
+                {
+                    "text": ":",
+                    "correct": true
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                },
+                {
+                    "text": ":"
+                    
+                }
+            ],
+            "explanations":"TS uses a colon (:)."
+        }
+    ]
+}

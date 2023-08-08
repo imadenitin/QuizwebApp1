@@ -1,0 +1,39 @@
+li{
+    list-style-type: none;
+    margin-top: 5px;
+    
+}
+.link,.link1,.link2,.link3{
+    border: 2px solid saddlebrown;
+}
+ul{
+    position: sticky;
+    top:10px
+}
+.router{
+    position: sticky;
+    top:10px
+}
+.k1{
+    position: sticky;
+    top:0;
+}
+a{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+}
+a:hover{
+    color: darkmagenta;
+    text-decoration: underline;
+}
+.d1{
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+/* .k1{
+    position: static;
+    top: 0;
+} */
